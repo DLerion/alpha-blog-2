@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Info 
+    User -create users tabale and model
 
-Things you may want to cover:
 
-* Ruby version
+Resources:
 
-* System dependencies
+* Ruby version Rails 7 
+* Bootstrap version 5
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
