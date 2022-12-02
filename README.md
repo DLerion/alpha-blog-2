@@ -10,3 +10,6 @@ Resources:
 * Bootstrap version 5
 
 
+REST - Representational state transfer - mapping HTTP verbs (get, post, put/patch, delete) to CRUD actions
+
+resources provides REST-ful routes to resources 
