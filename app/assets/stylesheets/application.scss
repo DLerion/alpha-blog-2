@@ -1,2 +1,41 @@
+.nav-link{
+    color: white !important;
+}
+
+#logo{
+    float: left;
+    font-size: 1.7cm;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+#home-container{
+    margin-top: 25px;
+}
+
+.jumbotron{
+    background-image: asset-url('Writing_machine');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 425px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#page-content {
+    flex: 1 0 auto;
+    background-color: grey;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
 @import "bootstrap"
 
